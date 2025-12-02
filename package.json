@@ -34,8 +34,7 @@
             "x64"
           ]
         }
-      ],
-      "icon": "public/icon.png"
+      ]
     },
     "nsis": {
       "oneClick": false,
@@ -53,8 +52,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^39.2.4",
-    "electron-builder": "^26.0.12",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
@@ -69,6 +66,8 @@
     "autoprefixer": "^10.4.22",
     "cross-env": "^10.1.0",
     "css-loader": "^7.1.2",
+    "electron": "^39.2.4",
+    "electron-builder": "^26.0.12",
     "eslint": "^9.39.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
